@@ -16,6 +16,9 @@ Backend developer, 25 years, living in Arapiraca 🇧🇷
 
 #### Professional experience
 
+📌 **Python developer at Turivius (01/2022 - currently)**
+- Working with data acquisition.
+
 :pushpin: **Web developer at Centro de Inovação EDGE (11/2020 - currently)**
 - I'm focusing in backend development with Python using Django + DRF, Postgres database and Docker.
 
