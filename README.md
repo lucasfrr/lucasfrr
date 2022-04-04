@@ -1,6 +1,6 @@
 ### Hi, there! I'm Lucas :v:
 
-Backend developer, 25 years, living in Arapiraca 🇧🇷
+Backend developer, 25 yo, living in Arapiraca 🇧🇷
 
 <div align=center>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasferreiraos&count_private=true&show_icons=true&theme=tokyonight" />
