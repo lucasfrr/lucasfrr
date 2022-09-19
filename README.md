@@ -27,7 +27,7 @@ Backend developer, 26 yo, living in Arapiraca 🇧🇷
 
 #### Education
 
-- :mortar_board: Degree in Computer Science at Universidade Federal de Alagoas (2015 - currently)
+- :mortar_board: Degree in Computer Science at Universidade Federal de Alagoas (2015 - 2022)
 
 <!--
 **lucasferreiraos/lucasferreiraos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
