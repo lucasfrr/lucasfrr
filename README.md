@@ -3,7 +3,7 @@
 Backend developer, 26 yo, living in Arapiraca 🇧🇷
 
 <div align=center>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasferreiraos&count_private=true&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lvcax&count_private=true&show_icons=true&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasferreiraos&count_private=true&langs_count=8&hide=jupyter%20notebook&layout=compact&theme=tokyonight" />
 </div>
 
@@ -16,8 +16,8 @@ Backend developer, 26 yo, living in Arapiraca 🇧🇷
 
 #### Professional experience
 
-📌 **Python developer at Turivius (01/2022 - currently)**
-- Working with data acquisition.
+📌 **Python developer at Turivius (01/2022 - 11/2022)**
+- I worked developing crawlers and microsservices using Python.
 
 :pushpin: **Web developer at Centro de Inovação EDGE (11/2020 - 05/2022)**
 - I'm focusing in backend development with Python using Django + DRF, Postgres database and Docker.
