@@ -4,7 +4,7 @@ Backend developer, 26 yo, living in Arapiraca 🇧🇷
 
 <div align=center>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lvcax&count_private=true&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasferreiraos&count_private=true&langs_count=8&hide=jupyter%20notebook&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvcax&count_private=true&langs_count=8&hide=jupyter%20notebook&layout=compact&theme=tokyonight" />
 </div>
 
 <div>
