@@ -22,9 +22,6 @@ Backend developer, 26 yo, living in Arapiraca 🇧🇷
 :pushpin: **Web developer at Centro de Inovação EDGE (11/2020 - 05/2022)**
 - I'm focusing in backend development with Python using Django + DRF, Postgres database and Docker.
 
-:pushpin: **Backend developer at Angular E-Commerce (07/2020 - 10/2020)**
-- I worked developing internal services with Python using Django and FastAPI.
-
 #### Education
 
 - :mortar_board: Degree in Computer Science at Universidade Federal de Alagoas (2015 - 2022)
